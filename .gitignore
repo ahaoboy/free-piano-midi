@@ -1,0 +1,11 @@
+/target
+**/*.rs.bk
+Cargo.lock
+bin/
+pkg/
+wasm-pack.log
+cjs
+esm
+web
+pnpm-lock.yaml
+node_modules
