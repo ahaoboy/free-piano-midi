@@ -1,6 +1,6 @@
 {
   "name": "free-piano-midi",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "free-piano-midi",
   "scripts": {
     "copy:wasm": "cp -r ./src-ts/wasm/index.d.ts ./esm/wasm/index.d.ts",
